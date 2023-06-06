@@ -1,0 +1,45 @@
+
+env:
+  ammdevnet:
+    rpc_url: http://amm.devnet.rippletest.net:51234
+  devnet:
+    rpc_url: https://s.devnet.rippletest.net:51234
+  mainnet:
+    rpc_url: https://s1.ripple.com:51234
+
+accounts:
+  - name: SOX Issuer
+    token: SOX
+    address: rPtQXgXiJCqXyFqRcUZwtXdme2AfiTHiEF
+    seed: sEdVnbbAEbGJt7HbsjKZFjQrMS4AA2L
+  - name: SOX Distributor
+    token: SOX
+    address: rh6BLUz2BcqaiaPvGQ5uePBSqFW3YL8X48
+    seed: sEd7jWGV9iFpdoe5sHei4h8eEV9LrfJ
+  - name: TLT Issuer
+    token: TLT
+    address: rg5CtGJ3XPHCvhCPttGySoKc1dZDs4hiU
+    seed: sEdT65GWzf7ZcqWuihDCvYLUgSZLx4c
+  - name: TLT Distributor
+    token: TLT
+    address: rnnZvfyb6YUMgcJe6Jk4JNDaU15293g7Kk
+    seed: sEdTSvvfx6ngzq7WmPAFMuQi6RPUf9x
+  - name: VIX Issuer
+    token: VIX
+    address: rEjhmyvsucUXTRzy3jtTVUDr6BcLERyEbr
+    seed: sEd7pR5NxLtugehsjx3qzZbYqTggFV2
+  - name: VIX Distributor
+    token: VIX
+    address: rHrHbEMRzjTEWE3iR4fczXdbnDdHbyn5j9
+    seed: sEdTkn8urEGVTtygbRtRvBjDB2mrKK6
+  - name: Granzort
+    address: rPKg8upAKSpbA7G4vNSquUaYtGvj3UVmSa
+    seed: sEdVeS4Etw9sbbhFdUK7Af931omTgDH
+  - name: Doraemon
+    address: rhqncsX4zuMUJEqZxEkBPduz9ZUTp5PDtA
+    seed: sEdTx8hrMx3mTKVrWvbxMZRjnon3AXF
+  - name: Enuma
+    address: rsapxjw2cRG1Vuzrntf3tUDBkz6whTcJZo
+    seed: sEdTXTL2C4ELjNW1Z9TnFotq3EA2836
+
+network: __network_name__
