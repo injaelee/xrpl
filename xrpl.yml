@@ -10,36 +10,34 @@ env:
 accounts:
   - name: SOX Issuer
     token: SOX
-    address: rPtQXgXiJCqXyFqRcUZwtXdme2AfiTHiEF
-    seed: sEdVnbbAEbGJt7HbsjKZFjQrMS4AA2L
+    address: rKZf5x1AgsPMLDT4Li9jsYuugKYkL39KFm
+    seed: sEd7XHpAQTbYawfpMBXYve4UBrwHVNe
+
   - name: SOX Distributor
     token: SOX
-    address: rh6BLUz2BcqaiaPvGQ5uePBSqFW3YL8X48
-    seed: sEd7jWGV9iFpdoe5sHei4h8eEV9LrfJ
+    address: rD4qub36AnyrgkBqUymoscCSaedEKkwnqP
+    seed: sEdVs9scZ6L4bRemFtrcqaACGgYSA26
+
   - name: TLT Issuer
     token: TLT
-    address: rg5CtGJ3XPHCvhCPttGySoKc1dZDs4hiU
-    seed: sEdT65GWzf7ZcqWuihDCvYLUgSZLx4c
+    address: rp5DdGYiW5uVG8p2iVgiQUi5JgwUvNpqRi
+    seed: sEdTccNpERujVJEjp2njT2aDLEdiL23
+
   - name: TLT Distributor
     token: TLT
-    address: rnnZvfyb6YUMgcJe6Jk4JNDaU15293g7Kk
-    seed: sEdTSvvfx6ngzq7WmPAFMuQi6RPUf9x
-  - name: VIX Issuer
-    token: VIX
-    address: rEjhmyvsucUXTRzy3jtTVUDr6BcLERyEbr
-    seed: sEd7pR5NxLtugehsjx3qzZbYqTggFV2
-  - name: VIX Distributor
-    token: VIX
-    address: rHrHbEMRzjTEWE3iR4fczXdbnDdHbyn5j9
-    seed: sEdTkn8urEGVTtygbRtRvBjDB2mrKK6
+    address: rsVUGMjBPB7JTCidandsDSFoKFjoWqaNR1
+    seed: sEd7KTgwuShQKYYUc82ieiCMBVwP8CT
+
   - name: Granzort
-    address: rPKg8upAKSpbA7G4vNSquUaYtGvj3UVmSa
-    seed: sEdVeS4Etw9sbbhFdUK7Af931omTgDH
+    address: rsyixHvwgAHXYj3mzNwzu2udt18HCu51ZF
+    seed: sEdTnSs7HhpgH8EfAQz4prGUDns19mC
+
   - name: Doraemon
-    address: rhqncsX4zuMUJEqZxEkBPduz9ZUTp5PDtA
-    seed: sEdTx8hrMx3mTKVrWvbxMZRjnon3AXF
+    address: rnK3ihdTVDTB1t8h4edGHDWs7bQaFGzyCC
+    seed: sEdTJfXfAzUaJzBHtrnMbthFW2J1AtW
+
   - name: Enuma
-    address: rsapxjw2cRG1Vuzrntf3tUDBkz6whTcJZo
-    seed: sEdTXTL2C4ELjNW1Z9TnFotq3EA2836
+    address: rhB27fXtauR7spSKDqtGhwd1yUC1CP4tXn
+    seed: sEdVDLYULot6BtQRpu8HCdwM5hArNtE
 
 network: __network_name__
